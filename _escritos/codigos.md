@@ -36,7 +36,7 @@ Y así crecí, con un sistema de creencias limitante, enfocada al trabajo y la i
 
 Definiría esto en una frase: “Hey amigo, hay un poco de vida en tu trabajo”.
 
-![Trabajo 12 horas, dormir 8 horas y vivir solo 4 horas.](Imagen1.png)
+![Trabajo 12 horas, dormir 8 horas y vivir solo 4 horas.](/assets/images/Imagen1.png)
 
 Cuando entendí mi situación y nació en mi la necesidad de cambiar, comencé a buscar respuestas, otra forma de vida, otras opiniones, etcétera. Y me di cuenta de que tenía mucho por trabajar, todo lo que me enseñaron en la escuela, sobre todo en el bachillerato, fue enfocado a una vida esclavizante, y me intentaron vender la vida del trabajador feliz. Yo continuaba estudiando por pura inercia, porque no entendía que había otras opciones y solo decidí vivir la vida tal como me la presentaron.
 
