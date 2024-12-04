@@ -1,0 +1,9 @@
+theme: minima
+title: Escritos del dragón
+email: contacto@zettahard.net
+timezone: America/Mexico_City
+collections:
+  escritos:
+    output: true
+  desafios:
+    output: true
