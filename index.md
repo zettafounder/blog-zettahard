@@ -3,6 +3,8 @@ layout: home
 update: 2024-12-03 22:00:00 -0600
 ---
 
+> Escritos es un conjunto de notas que tome mientras me reconstruia, son conceptos que me ayudarón a salir "del hoyo" y decidi compartirlos con la esperanza de que le sirvan a alguien más.
+
 ## Escritos
 
 {% assign i_escritos = site.escritos %}
@@ -11,6 +13,6 @@ update: 2024-12-03 22:00:00 -0600
   <a href=".{{ escrito.url }}">{{ escrito.title }}</a>
 {% endfor %}
 
-[Todos los posts](/escritos.html)
+[Todos los escritos](/escritos.html)
 
 ## Desafíos
