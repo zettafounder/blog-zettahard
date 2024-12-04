@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 author: Zetta Founder
 title: "CÓDIGOS"
 tags: escritos
