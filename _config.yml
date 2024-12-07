@@ -5,5 +5,3 @@ timezone: America/Mexico_City
 collections:
   escritos:
     output: true
-  desafios:
-    output: false
