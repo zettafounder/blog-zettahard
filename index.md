@@ -12,7 +12,3 @@ update: 2024-12-03 22:00:00 -0600
 {% for escrito in i_escritos | limit: 5 %}
   <a href=".{{ escrito.url }}">{{ escrito.title }}</a>
 {% endfor %}
-
-[Todos los escritos](/escritos.html)
-
-## Desafíos
