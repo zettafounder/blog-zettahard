@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Zetta Founder
-title: "CÓDIGOS"
+title: "Primer escrito: CÓDIGOS"
 tags: escritos
 date: 2024-10-10 11:00:00 -0600
 update: 2024-12-03 22:00:00 -0600
