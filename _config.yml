@@ -3,5 +3,15 @@ title: Escritos del dragón
 email: contacto@zettahard.net
 timezone: America/Mexico_City
 collections:
-  escritos:
+  cuerpo:
+    output: true
+  mente:
+    output: true
+  productividad:
+    output: true
+  trabajo:
+    output: true
+  relaciones:
+    output: true
+  legado:
     output: true
