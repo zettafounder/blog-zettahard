@@ -1,6 +1,5 @@
 theme: minima
-title: Escritos del dragón
-email: contacto@zettahard.net
+title: Zetta Hard
 timezone: America/Mexico_City
 collections:
   cuerpo:
