@@ -1,16 +1,3 @@
 theme: minima
 title: Zetta Hard
 timezone: America/Mexico_City
-collections:
-  cuerpo:
-    output: true
-  mente:
-    output: true
-  productividad:
-    output: true
-  trabajo:
-    output: true
-  relaciones:
-    output: true
-  legado:
-    output: true
