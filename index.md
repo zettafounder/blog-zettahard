@@ -6,6 +6,10 @@ Este no es solo un blog, es "el blog". Aquí esta toda la inormación que recopi
 
 > Usa la información de este blog con responsabilidad.
 
+![](https://i.ibb.co/tTvfkBM3/photo-2025-02-19-03-47-41.jpg)
+![](https://i.ibb.co/7xXQVysj/photo-2025-02-19-03-47-43.jpg)
+![](https://i.ibb.co/3mvRvPDg/photo-2025-02-19-03-47-44.jpg)
+
 <h1>Posts</h1>
 
 <p>{% for post in site.posts %}
