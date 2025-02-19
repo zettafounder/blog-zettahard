@@ -6,20 +6,11 @@ Este no es solo un blog, es "el blog". Aquí esta toda la inormación que recopi
 
 > Usa la información de este blog con responsabilidad.
 
-<img width="auto" max-width="360px" src="https://i.ibb.co/tTvfkBM3/photo-2025-02-19-03-47-41.jpg"/>
+<a href="https://blog.zettahard.net/cuerpo.html"><img width="auto" max-width="360px" src="https://i.ibb.co/tTvfkBM3/photo-2025-02-19-03-47-41.jpg"/></a>
 
-![](https://i.ibb.co/tTvfkBM3/photo-2025-02-19-03-47-41.jpg)
-![](https://i.ibb.co/7xXQVysj/photo-2025-02-19-03-47-43.jpg)
-![](https://i.ibb.co/3mvRvPDg/photo-2025-02-19-03-47-44.jpg)
+<a href="https://blog.zettahard.net/mente.html"><img width="auto" max-width="360px" src="https://i.ibb.co/7xXQVysj/photo-2025-02-19-03-47-43.jpg"/></a>
 
-![](https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg)
-![](https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg)
-
-<img width="50%" src="https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg"/><img width="50%" src="https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg"/><img width="50%" src="https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg"/>
-
-<img width="49%" src="https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg"/><img width="49%" src="https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg"/><img width="49%" src="https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg"/>
-
-<img width="25%" src="https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg"/>
+<a href="https://blog.zettahard.net/productividad.html"><img width="auto" max-width="360px" src="https://i.ibb.co/tTvfkBM3/photo-2025-02-19-03-47-41.jpg"/></a>
 
 
 <h1>Posts</h1>
