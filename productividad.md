@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Productividad
+title: 3. Productividad
 update: 2025-02-06 17:45:00 -0600
 ---
 Mucho de lo que se necesita para optimizar tu vida se encuentra aquí. Organización, planeación, administración, etc.

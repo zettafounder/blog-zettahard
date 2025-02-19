@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trabajo
+title: 4. Trabajo
 update: 2025-02-18 23:42:00 -0600
 ---
 Dicen que aquel que se dedica a hacer lo que le gusta no trabaja un solo día de su vida, tambien dicen que aquel que trabaja demasiado no tiene tiempo para hacer dinero y que aquel que no sabe como hacer dinero mientras duerme , trabajara hasta la muerte.
