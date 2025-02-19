@@ -5,7 +5,7 @@ title: "¿Y si empujó más?"
 category: cuerpo
 tags: mental, motivación
 update: 2025-02-18 19:00:00 -0600
-date: 2025-02-18 19:00:00 -0600
+date: 2025-02-14 19:00:00 -0600
 banner: https://i.ibb.co/yBWqP7Tq/photo-2025-02-19-04-21-04.jpg
 ---
 Estas a punto de rendirte, preguntate: ¿En quien podre convertirme si empujo más?

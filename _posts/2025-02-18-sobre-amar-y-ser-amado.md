@@ -5,7 +5,7 @@ title: "Sobre amar y ser amado"
 category: relaciones
 tags: amor
 update: 2025-02-19 03:12:00 -0600
-date: 2025-02-19 03:12:00 -0600
+date: 2025-02-18 03:12:00 -0600
 ---
 > Amate, ama y no necesitaras ser amado, entonces seras amado.
 

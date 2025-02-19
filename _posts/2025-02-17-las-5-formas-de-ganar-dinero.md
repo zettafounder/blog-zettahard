@@ -5,7 +5,7 @@ title: "Las 5 formas de ganar dinero"
 category: trabajo
 tags: dinero
 update: 2025-02-06 17:54:00 -0600
-date: 2025-02-06 17:54:00 -0600
+date: 2025-02-17 17:54:00 -0600
 ---
 El dinero es uno de los temas que me gusta tratar viéndolo desde el área de la productividad ya que la organización y la planificación correcta de tu economía son las causantes de tener unas finanzas saludables y por ende tener más dinero.
 

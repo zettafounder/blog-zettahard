@@ -5,7 +5,7 @@ title: "Seguimiento de habitos"
 category: productividad
 tags: habitos
 update: 2025-02-19 01:09:00 -0600
-date: 2025-02-19 01:09:00 -0600
+date: 2025-02-16 01:09:00 -0600
 ---
 Dicen que lo que no se puede medir no se puede mejorar. Sin duda alguna hay muchas personas allá afuera, en otras partes de la internet que son mejores hablando sobre productividad que yo, pero aun así he decidido compartir con ustedes lo que a mi me funciona.
 

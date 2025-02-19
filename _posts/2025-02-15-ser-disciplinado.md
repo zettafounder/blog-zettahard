@@ -5,7 +5,7 @@ title: "Ser disciplinado"
 category: mente
 tags: mental
 update: 2025-02-18 23:36:00 -0600
-date: 2025-02-18 23:36:00 -0600
+date: 2025-02-15 23:36:00 -0600
 ---
 ¿Qué es la disciplina?, ¿es acaso hacer algo aun sin ganas de hacerlo?, porque si es así yo conozco a muchos empleados que hacen las cosas sin ganas. Creo que la disciplina es más bien una consecuencia de tener algo que le dé sentido a lo que queremos hacer.
 
