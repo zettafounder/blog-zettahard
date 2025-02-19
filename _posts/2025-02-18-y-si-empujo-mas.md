@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Zetta Founder
-title: "¿Y si empujo más?"
+title: "¿Y si empujó más?"
 category: cuerpo
 tags: mental, motivación
 update: 2025-02-18 19:00:00 -0600
