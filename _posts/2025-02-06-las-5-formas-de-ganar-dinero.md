@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: trabajo
 author: Zetta Founder
 title: "Las 5 formas de ganar dinero"
 category: trabajo

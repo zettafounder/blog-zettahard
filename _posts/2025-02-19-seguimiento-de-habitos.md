@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: productividad
 author: Zetta Founder
 title: "Seguimiento de habitos"
 category: productividad

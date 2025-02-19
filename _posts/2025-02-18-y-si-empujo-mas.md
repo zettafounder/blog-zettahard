@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: cuerpo
 author: Zetta Founder
 title: "¿Y si empujó más?"
 category: cuerpo

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: relaciones
 author: Zetta Founder
 title: "Sobre amar y ser amado"
 category: relaciones

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: mente
 author: Zetta Founder
 title: "Ser disciplinado"
 category: mente

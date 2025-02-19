@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: legado
 author: Zetta Founder
 title: "Emprender por las razones correctas"
 category: legado
