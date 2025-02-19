@@ -20,7 +20,7 @@ Es tan fácil como esto:
 |Habito|Lunes|Martes|Miércoles|Jueves|Viernes|
 |------|-----|------|---------|------|-------|
 |Ejercicio| x|     x| x       |      | x     |
-|Leer  | x| x|  x   |         |  x   | x     |
+|Leer  | x   | x    |  x      |   x  |  x    |
 
 Escribes el habito y tachas sobre los días de la semana que lo hayas completado, puedes incluso hacerlo mensual, compras un calendario o lo haces en una hoja de papel y tachas los días que completes el habito.
 
