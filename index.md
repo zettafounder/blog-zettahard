@@ -10,6 +10,11 @@ Este no es solo un blog, es "el blog". Aquí esta toda la inormación que recopi
 ![](https://i.ibb.co/7xXQVysj/photo-2025-02-19-03-47-43.jpg)
 ![](https://i.ibb.co/3mvRvPDg/photo-2025-02-19-03-47-44.jpg)
 
+![](https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg)
+![](https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg)
+
+<img src=https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg></img><img src=https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg></img><img src=https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg></img>
+
 <h1>Posts</h1>
 
 <p>{% for post in site.posts %}
