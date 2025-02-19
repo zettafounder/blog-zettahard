@@ -4,7 +4,7 @@ author: Zetta Founder
 title: "¿Y si empujo más?"
 category: cuerpo
 tags: mental, motivación
-update: 2025-02-06 19:00:00 -0600
+update: 2025-02-18 19:00:00 -0600
 date: 2025-02-18 19:00:00 -0600
 ---
 Estas a punto de rendirte, preguntate: ¿En quien podre convertirme si empujo más?
