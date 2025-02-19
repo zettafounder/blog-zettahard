@@ -13,7 +13,12 @@ Este no es solo un blog, es "el blog". Aquí esta toda la inormación que recopi
 ![](https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg)
 ![](https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg)
 
-<img src=https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg></img><img src=https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg></img><img src=https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg></img>
+<img width="50%" src="https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg"/><img width="50%" src="https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg"/><img width="50%" src="https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg"/>
+
+<img width="49%" src="https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg"/><img width="49%" src="https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg"/><img width="49%" src="https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg"/>
+
+<img width="25%" src="https://i.ibb.co/V0rCJYQH/photo-2025-02-19-03-54-51.jpg"/>
+
 
 <h1>Posts</h1>
 
