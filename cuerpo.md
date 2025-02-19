@@ -10,6 +10,7 @@ Es la primer area a mejorar, si no sabes por donde empezar a crear tu mejor vers
 
 
 <p>{% for post in site.categories["cuerpo"] %}
+    <a href="https://blog.zettahard.net/cuerpo/2025/02/18/y-si-empujo-mas.html"><img width="auto" max-width="360px" src="{{ post.banner }}"/></a>
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     {{ post.excerpt }}
 {% endfor %}</p>
