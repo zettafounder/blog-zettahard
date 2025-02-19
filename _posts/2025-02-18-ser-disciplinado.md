@@ -2,7 +2,7 @@
 layout: post
 author: Zetta Founder
 title: "Ser disciplinado"
-category: cuerpo, mente
+category: cuerpo, mente, productividad
 tags: mental
 update: 2025-02-18 23:36:00 -0600
 date: 2025-02-18 23:36:00 -0600

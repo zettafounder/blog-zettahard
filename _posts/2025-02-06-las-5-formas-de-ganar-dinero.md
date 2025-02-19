@@ -2,7 +2,7 @@
 layout: post
 author: Zetta Founder
 title: "Las 5 formas de ganar dinero"
-category: productividad
+category: trabajo
 tags: dinero
 update: 2025-02-06 17:54:00 -0600
 date: 2025-02-06 17:54:00 -0600
