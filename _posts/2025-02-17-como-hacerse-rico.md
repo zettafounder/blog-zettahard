@@ -63,7 +63,7 @@ Esta es la parte que realmente te convierte en rico o no, hay mucha gente exitos
 No soy experto en inversiones, así que no es legal que de consejos de inversión de ningún tipo, pero hay mucha información en Internet que trata estos temas de manera profesional, échales un vistazo o mejor consigue asesoría financiera.
 
 ---
-
+<br>
 Así que ya tienes los pasos para ser rico, entiende que la riqueza no es algo que se persigue, es algo que llega a causa de tener éxito en el trabajo que hacemos y después esos ingresos inviértelos de manera inteligente. Suena muy simple y parece muy obvio, pero siempre he pensado que lo que separa a alguien de ser mejor es que no toman las decisiones correctas y muchas veces esa decisión es actuar, algo que muy pocas personas deciden hacer: actuar.
 
 (Enlace al post haz que las cosas pasen)
