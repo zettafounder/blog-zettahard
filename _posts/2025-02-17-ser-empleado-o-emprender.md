@@ -4,8 +4,8 @@ author: Zetta Founder
 title: "Ser empleado o emprender"
 category: trabajo
 tags: emprender, empleo
-update: 2025-02-06 18:00:00 -0600
-date: 2025-02-17 17:54:00 -0600
+update: 2025-02-20 01:53:00 -0600
+date: 2025-02-17 18:00:00 -0600
 banner: https://i.ibb.co/VcCvXQPL/photo-2025-02-20-01-47-46.jpg
 ---
 Esa es una pregunta que tiene más fondo. La cosa aquí no es si es mejor trabajar que emprender o viceversa, la cosa aquí es ¿qué te apasiona? y ¿qué quieres ser?, y en base a esto y a lo que funcione para ti decidir.
