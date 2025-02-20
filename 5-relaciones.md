@@ -7,5 +7,5 @@ Dicen que eres lo que los demás recuerdan de ti y es lo que prentendo mejorar, 
 
 Ser mejor hijo, pareja, hermano, amigo, padre, compañero.
 <p>{% for post in site.categories["relaciones"] %}
-    <a href="{{ post.url }}"><img width="auto" max-width="360px" src="{{ post.banner }}" alt="{{ post.title }}"/></a>
+    <a href="{{ post.url }}"><img width="auto" max-width="360px" src="{{ post.banner }}" alt="{{ post.title }}"/></a><br><br>
 {% endfor %}</p>
