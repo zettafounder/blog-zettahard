@@ -33,7 +33,7 @@ Ahora ya no juego tanto como antes, de hecho es muy rara la vez que lo hago.
 Lo mismo pasa con otras "visitas al diablo", como tomar alcohol o comer comida basura. Son estas pequeñas visitas las que nos ayudan a seguir definiendo lo que no queremos y lo que si queremos.
 
 ---
-
+<br>
 Otra cosa, si estás pasando por un momento aparentemente malo, úsalo para definir lo que no te gusta de esa situación y define su contra parte.
 
 Piensa que está situación está solo para mostrarte lo que realmente quieres, es cuestión de perspectiva. 
