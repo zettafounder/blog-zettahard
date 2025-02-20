@@ -6,6 +6,7 @@ category: relaciones
 tags: amor
 update: 2025-02-19 03:12:00 -0600
 date: 2025-02-18 03:12:00 -0600
+banner: https://i.ibb.co/mrH4Brbh/photo-2025-02-20-00-12-09.jpg
 ---
 > Amate, ama y no necesitaras ser amado, entonces seras amado.
 

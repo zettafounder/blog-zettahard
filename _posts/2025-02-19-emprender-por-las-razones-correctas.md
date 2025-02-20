@@ -6,6 +6,7 @@ category: legado
 tags: emprendimiento
 update: 2025-02-19 00:39:00 -0600
 date: 2025-02-19 00:39:00 -0600
+banner: https://i.ibb.co/q3rXbrvL/photo-2025-02-20-00-12-11.jpg
 ---
 Se escucha mucho por ahí que tienes que dedicarte a lo que te apasiona, eso es correcto, pero, ¿cómo sabes que te apasiona?
 
