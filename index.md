@@ -6,7 +6,7 @@ Este no es solo un blog, es "el blog". Aquí esta toda la inormación que recopi
 
 > Usa la información de este blog con responsabilidad.
 
-<a href="https://blog.zettahard.net/1-cuerpo.html"><img width="auto" max-width="360px" src="https://i.ibb.co/tTvfkBM3/photo-2025-02-19-03-47-411.jpg" alt="Cuerpo"/></a>
+<a href="https://blog.zettahard.net/1-cuerpo.html"><img width="auto" max-width="360px" src="https://i.ibb.co/tTvfkBM3/photo-2025-02-19-03-47-41.jpg" alt="Cuerpo"/></a>
 
 <a href="https://blog.zettahard.net/2-mente.html"><img width="auto" max-width="360px" src="https://i.ibb.co/7xXQVysj/photo-2025-02-19-03-47-43.jpg" alt="Mente"/></a>
 
