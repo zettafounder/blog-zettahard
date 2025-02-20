@@ -7,6 +7,5 @@ Dicen que aquel que se dedica a hacer lo que le gusta no trabaja un solo día de
 
 Todas estas son afirmaciones correctas y por eso aquí comparto información que te ayuadara a mejorar en esta área de tu vida, para que disfrutes de tu trabajo al mismo tiempo que usamos estas frases como base, para que el trabajo te haga libre y no una especie de esclavo de la era moderna.
 <p>{% for post in site.categories["trabajo"] %}
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    {{ post.excerpt }}
+    <a href="{{ post.url }}"><img width="auto" max-width="360px" src="{{ post.banner }}" alt="{{ post.title }}"/></a>
 {% endfor %}</p>
