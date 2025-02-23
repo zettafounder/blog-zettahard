@@ -5,7 +5,7 @@ title: "Hacer que las cosas pasen"
 category: mente
 tags: mental
 update: 2025-02-23 02:03:00 -0600
-date: 2025-02-15 23:52:00 -0600
+date: 2025-02-15 23:53:00 -0600
 banner: https://i.ibb.co/TNqcrGM/IMG-20250223-023312.png
 ---
 > Una guía para hacer que las cosas pasen.
