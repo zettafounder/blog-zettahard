@@ -1,7 +1,7 @@
 ---
 layout: mente
 author: Zetta Founder
-title: "Visitar al diablo"
+title: "De adentro hacia afuera"
 category: mente
 tags: mental
 update: 2025-02-23 02:03:00 -0600
